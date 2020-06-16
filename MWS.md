@@ -1,26 +1,23 @@
-<h1 style="text-align: center;"><strong>GADS2020</strong></h1> 
+# GADS2020
 
-<h1 style="text-align: center;"><strong>Mobile Web Specialist Roadmap</strong></h1> 
+# Mobile Web Specialist Roadmap
 
 ![Imgur](https://i.imgur.com/4CdZs87.jpg)
 
 Welcome to the path to becoming a Mobile Web Specilist.
 
-
-<h2 style="text-align: center;">Phase 1 </h2>
+## Phase 1
 Web Developments' Bird's Eye View
 HTML, CSS and JavaScript: The big Picture by Barry Luijbregts
 
-### HTML
-
-* HTML Fundamentals by Matt Milner
-* HTML 5 Fundamentals by Craig Shoemaker
-
-### CSS
-* Introduction to CSS by Scott Allen
-
-### JavaScript
-* JavaScript: Getting Started by Mark Zamoyta
+### Beginner
+| Course Title                                | Link                                | Author                              |
+| ---                                         | ---                                 | ---                                 |
+| HTML, CSS and JavaScript: The big Picture   | https://app.pluralsight.com/library/courses/html-css-javascript-big-picture | Barry Luijbregts|
+| HTML Fundamentals                           | https://app.pluralsight.com/library/courses/html-fundamentals | Matt Milner |
+| HTML 5 Fundamentals                         | https://app.pluralsight.com/library/courses/html5-fundamentals| Craig Shoemaker |
+| Introduction to CSS                         | https://app.pluralsight.com/library/courses/css-intro         | Scott Allen |
+| JavaScript: Getting Started                 | https://app.pluralsight.com/library/courses/javascript-getting-started | Mark Zamoyta|
 
 ### First attempt Skill IQ Tests
 Tests: HTMl, CSS and JavaScript

@@ -7,13 +7,17 @@
 Welcome to the path to becoming a Mobile Web Specilist.
 
 ## Phase 1
-Web Developments' Bird's Eye View
-HTML, CSS and JavaScript: The big Picture by Barry Luijbregts
+#### Web Developments' Bird's Eye View
+| Course Title                                | Link                                                              | Author        |
+| ---                                         | ---                                                               | ---           |
+| HTML, CSS and JavaScript: The big Picture   | https://app.pluralsight.com/library/courses/html-css-javascript-big-picture | Barry Luijbregts|
+| GitHub Fundamentals                         | https://app.pluralsight.com/library/courses/github-fundamentals         | Gill Cleeren|
+
+---
 
 ### Beginner
 | Course Title                                | Link                                | Author                              |
 | ---                                         | ---                                 | ---                                 |
-| HTML, CSS and JavaScript: The big Picture   | https://app.pluralsight.com/library/courses/html-css-javascript-big-picture | Barry Luijbregts|
 | HTML Fundamentals                           | https://app.pluralsight.com/library/courses/html-fundamentals | Matt Milner |
 | HTML 5 Fundamentals                         | https://app.pluralsight.com/library/courses/html5-fundamentals| Craig Shoemaker |
 | Introduction to CSS                         | https://app.pluralsight.com/library/courses/css-intro         | Scott Allen |
@@ -30,6 +34,8 @@ HTML, CSS and JavaScript: The big Picture by Barry Luijbregts
 1. Complete required 20 questions
 1. Hold off on the redo until you gain more knowledge.
 1. Note down the improvement areas and work on them
+
+---
 
 ### Intermediate
 | Course Title                                | Link                                                              | Author        |
@@ -49,7 +55,14 @@ HTML, CSS and JavaScript: The big Picture by Barry Luijbregts
 | CSS                   | previous score                |
 | JavaScript            | previous score                |
 
+#### Note: 
+1. Redo your Skill IQs
+1. Pluralsight will only record you Highest IQ
+1. Points will be awarded for Skill IQ improvement
+1. Do your best to beat your previous score
+
 ---
+
 ### Intermediate
 | Course Title                                | Link                                                              | Author        |
 | ---                                         | ---                                                               | ---           |

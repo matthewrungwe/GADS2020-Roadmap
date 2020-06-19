@@ -63,7 +63,7 @@ Welcome to the path to becoming a Mobile Web Specilist.
 
 ---
 
-### Intermediate
+### Advanced
 | Course Title                                | Link                                                              | Author        |
 | ---                                         | ---                                                               | ---           |
 | Getting Started with jQuery                 | https://app.pluralsight.com/library/courses/jquery-getting-started| Craig Shoemaker |
